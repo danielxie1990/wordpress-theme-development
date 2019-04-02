@@ -1,6 +1,6 @@
 <footer class="site-footer">
   <h1>This is an amazing footer, right?</h1>
-
+<h2>You are right!</h2>
     <div class="site-footer__inner container container--narrow">
 
       <div class="group">
